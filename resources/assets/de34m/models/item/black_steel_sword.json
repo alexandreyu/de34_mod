@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "de34m:items/black_steel_sword"
+	}
+}

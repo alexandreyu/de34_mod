@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,lit=false": { "model": "de34m:block/high_temperature_furnace" },
+        "facing=south,lit=false": { "model": "de34m:block/high_temperature_furnace", "y": 180 },
+        "facing=west,lit=false": { "model": "de34m:block/high_temperature_furnace", "y": 270 },
+        "facing=east,lit=false": { "model": "de34m:block/high_temperature_furnace", "y": 90 },
+        "facing=north,lit=true": { "model": "de34m:block/high_temperature_furnace_lit" },
+        "facing=south,lit=true": { "model": "de34m:block/high_temperature_furnace_lit", "y": 180 },
+        "facing=west,lit=true": { "model": "de34m:block/high_temperature_furnace_lit", "y": 270 },
+        "facing=east,lit=true": { "model": "de34m:block/high_temperature_furnace_lit", "y": 90 }
+    }
+}
