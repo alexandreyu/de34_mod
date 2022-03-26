@@ -1,0 +1,27 @@
+{
+	"replace" : false,
+	"values" : [
+		"de34m:chromium_ore",
+		"de34m:hematite_ore",
+		"de34m:lignite_ore",
+		"de34m:tungsten_ore",
+		"de34m:oil_ore",
+		"de34m:elerium_ore",
+		"de34m:chromium_block",
+		"de34m:hematite_block",
+		"de34m:lignite_block",
+		"de34m:tungsten_block",
+		"de34m:oil_barrel",
+		"de34m:elerium_block",
+		"de34m:tungsten_carbide_block",
+		"de34m:steel_block",
+		"de34m:black_steel_block",
+		"de34m:wcr_block",
+		"de34m:chromium_carbide_block",
+		"de34m:activated_elerium_block",
+		"de34m:phased_elerium_block",
+		"de34m:high_temperature_furnace",
+		"de34m:gamma_activator",
+		"de34m:crown"
+	]
+}

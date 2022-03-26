@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "de34m:oil_bucket"
+        },
+        {
+            "item": "de34m:oil_bucket"
+        },
+        {
+            "item": "de34m:oil_bucket"
+        },
+        {
+            "item": "de34m:oil_bucket"
+        },
+        {
+            "item": "de34m:oil_bucket"
+        },
+        {
+            "item": "de34m:oil_bucket"
+        },
+        {
+            "item": "de34m:oil_bucket"
+        },
+        {
+            "item": "de34m:oil_bucket"
+        },
+        {
+            "item": "de34m:oil_bucket"
+        }
+    ],
+    "result": {
+        "item": "de34m:oil_barrel",
+        "count": 1
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "de34m:chromium_ingot"
+        },
+        {
+            "item": "de34m:chromium_ingot"
+        },
+        {
+            "item": "de34m:chromium_ingot"
+        },
+        {
+            "item": "de34m:chromium_ingot"
+        },
+        {
+            "item": "de34m:chromium_ingot"
+        },
+        {
+            "item": "de34m:chromium_ingot"
+        },
+        {
+            "item": "de34m:chromium_ingot"
+        },
+        {
+            "item": "de34m:chromium_ingot"
+        },
+        {
+            "item": "de34m:chromium_ingot"
+        }
+    ],
+    "result": {
+        "item": "de34m:chromium_block",
+        "count": 1
+    }
+}

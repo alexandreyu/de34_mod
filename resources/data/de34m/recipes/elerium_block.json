@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "de34m:elerium_shard"
+        },
+        {
+            "item": "de34m:elerium_shard"
+        },
+        {
+            "item": "de34m:elerium_shard"
+        },
+        {
+            "item": "de34m:elerium_shard"
+        },
+        {
+            "item": "de34m:elerium_shard"
+        },
+        {
+            "item": "de34m:elerium_shard"
+        },
+        {
+            "item": "de34m:elerium_shard"
+        },
+        {
+            "item": "de34m:elerium_shard"
+        },
+        {
+            "item": "de34m:elerium_shard"
+        }
+    ],
+    "result": {
+        "item": "de34m:elerium_block",
+        "count": 1
+    }
+}

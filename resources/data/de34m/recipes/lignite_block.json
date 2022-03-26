@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "de34m:lignite_chunk"
+        },
+        {
+            "item": "de34m:lignite_chunk"
+        },
+        {
+            "item": "de34m:lignite_chunk"
+        },
+        {
+            "item": "de34m:lignite_chunk"
+        },
+        {
+            "item": "de34m:lignite_chunk"
+        },
+        {
+            "item": "de34m:lignite_chunk"
+        },
+        {
+            "item": "de34m:lignite_chunk"
+        },
+        {
+            "item": "de34m:lignite_chunk"
+        },
+        {
+            "item": "de34m:lignite_chunk"
+        }
+    ],
+    "result": {
+        "item": "de34m:lignite_block",
+        "count": 1
+    }
+}
