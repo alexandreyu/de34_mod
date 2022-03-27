@@ -37,16 +37,9 @@ public final class BlockInit {
 			() -> new Block(BlockBehaviour.Properties.of(Material.STONE, MaterialColor.COLOR_LIGHT_GRAY)
 					.requiresCorrectToolForDrops().strength(6.0F, 3.0F)));
 
-	/*
-	 * public static final RegistryObject<Block> OIL_ORE =
-	 * BLOCKS.register("oil_ore", () -> new
-	 * Block(BlockBehaviour.Properties.of(Material.STONE, MaterialColor.COLOR_BLACK)
-	 * .requiresCorrectToolForDrops().strength(6.0F, 3.0F)));
-	 */
-
-	public static final RegistryObject<LiquidBlock> OIL_ORE = BLOCKS.register("oil_ore",
-			() -> new LiquidBlock(FluidInit.OIL,
-					BlockBehaviour.Properties.of(Material.STONE).noCollission().strength(100.0F).noDrops()));
+	public static final RegistryObject<LiquidBlock> OIL = BLOCKS.register("oil",
+			() -> new LiquidBlock(FluidInit.OIL, BlockBehaviour.Properties.of(Material.WATER).noCollission()
+					.strength(100.0F).noDrops()));
 
 	public static final RegistryObject<Block> ELERIUM_ORE = BLOCKS.register("elerium_ore",
 			() -> new Block(BlockBehaviour.Properties.of(Material.STONE, MaterialColor.COLOR_BLUE)

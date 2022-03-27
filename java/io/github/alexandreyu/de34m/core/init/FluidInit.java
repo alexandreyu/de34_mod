@@ -1,7 +1,7 @@
 package io.github.alexandreyu.de34m.core.init;
 
 import io.github.alexandreyu.de34m.DE34M;
-import io.github.alexandreyu.de34m.common.fluids.OilFluid;
+import io.github.alexandreyu.de34m.common.fluid.OilFluid;
 import net.minecraft.world.level.material.FlowingFluid;
 import net.minecraft.world.level.material.Fluid;
 import net.minecraftforge.registries.DeferredRegister;
