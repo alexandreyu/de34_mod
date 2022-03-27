@@ -1,0 +1,30 @@
+Oil Barrel - Pas à faire
+
+Elerium Shard - Sorte de fragment elerium (bleu ciel)
+Elerium Block - À partir du bloc de netherite
+Elerium Plate - Pas à faire
+
+Tungsten Carbide Ingot - Lingot gris métallique
+Tungsten Carbide Block - bloc pareil à partir de texture du bloc de fer
+
+Steel Ingot - couleur acier (gris foncé)
+Steel Block - à partir du bloc de fer
+
+Black Steel Ingot - couleur noir
+Black Steel Block - à partir du bloc fer
+
+WCR Ingot - rouge pâle
+WCR Block - à partir du bloc or
+
+Chromium Carbide Ingot - gris comme sur l'image
+Chromium Carbide Block - bloc a partir or
+
+Activated Elerium - Pas à faire
+Activated Elerium Block - Pas à faire
+
+Gamma Activator - Pas à faire
+Crown - Pas à faire
+
+Phased Elerium - Pas à faire
+
+Outils/Armure - Pas à faire
