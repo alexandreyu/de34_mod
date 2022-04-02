@@ -1,5 +1,5 @@
 oil_barrel - Pas à faire
-elerium_plate - Plaque d'elerium, utilise le plate template que j'ai mis
+elerium_plate - Plaque d'elerium, utilise le plate template que j'ai mis et rework le en 32x32
 activated_elerium - Boule d'elerium brillante
 activated_elerium_block - Pas à faire
 
