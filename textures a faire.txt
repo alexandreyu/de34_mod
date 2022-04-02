@@ -2,16 +2,6 @@ Oil Barrel - Pas à faire
 
 Elerium Plate - Pas à faire
 
-Tungsten Carbide Ingot - Lingot gris métallique
-Tungsten Carbide Block - bloc pareil à partir de texture du bloc de fer
-
-
-WCR Ingot - rouge pâle
-WCR Block - à partir du bloc or
-
-Chromium Carbide Ingot - gris comme sur l'image
-Chromium Carbide Block - bloc a partir or
-
 Activated Elerium - Pas à faire
 Activated Elerium Block - Pas à faire
 
