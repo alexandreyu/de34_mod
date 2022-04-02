@@ -1,11 +1,22 @@
 oil_barrel - Pas à faire
-elerium_plate - Plaque d'elerium, utilise le plate template que j'ai mis, et rework le en 32x32
+elerium_plate - Plaque d'elerium, utilise le plate template que j'ai mis
 activated_elerium - Boule d'elerium brillante
-activated_elerium_block - Bloc elerium brillant mais pas trop
+activated_elerium_block - Pas à faire
 
 gamma_activator - Pas à faire
 crown - Pas à faire
 
-phased_elerium_block - Bloc d'élerium brillant et énergétique, plsu bleu clair
+phased_elerium_block - Bloc d'élerium brillant et énergétique
 
-Outils/Armure - Pas à faire
+Outils/Armure : - Utilise les templates
+
+black_steel_sword - Épée avec acier noir
+tungsten_carbide_pickaxe - Pioche avec carbure de tungstène
+chromium_carbide_axe - Hache avec carbure de chrome
+wcr_shovel - Pelle avec WCR
+steel_bow - Arc en acier normal, y'a 4 textures à faire pour chaque état de l'arc
+
+elerium_helmet - Casque en élerium
+elerium_chestplate - Plastron en élerium
+elerium_leggings - Jambières en élerium
+elerium_boots - Bottes en élerium
