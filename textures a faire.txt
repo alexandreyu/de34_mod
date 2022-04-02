@@ -1,13 +1,11 @@
-Oil Barrel - Pas à faire
+oil_barrel - Pas à faire
+elerium_plate - Plaque d'elerium, utilise le plate template que j'ai mis, et rework le en 32x32
+activated_elerium - Boule d'elerium brillante
+activated_elerium_block - Bloc elerium brillant mais pas trop
 
-Elerium Plate - Pas à faire
+gamma_activator - Pas à faire
+crown - Pas à faire
 
-Activated Elerium - Pas à faire
-Activated Elerium Block - Pas à faire
-
-Gamma Activator - Pas à faire
-Crown - Pas à faire
-
-Phased Elerium - Pas à faire
+phased_elerium_block - Bloc d'élerium brillant et énergétique, plsu bleu clair
 
 Outils/Armure - Pas à faire
