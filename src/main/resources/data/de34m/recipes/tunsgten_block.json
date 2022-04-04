@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "de34m:tungsten_ingot"
+        },
+        {
+            "item": "de34m:tungsten_ingot"
+        },
+        {
+            "item": "de34m:tungsten_ingot"
+        },
+        {
+            "item": "de34m:tungsten_ingot"
+        },
+        {
+            "item": "de34m:tungsten_ingot"
+        },
+        {
+            "item": "de34m:tungsten_ingot"
+        },
+        {
+            "item": "de34m:tungsten_ingot"
+        },
+        {
+            "item": "de34m:tungsten_ingot"
+        },
+        {
+            "item": "de34m:tungsten_ingot"
+        }
+    ],
+    "result": {
+        "item": "de34m:tungsten_block",
+        "count": 1
+    }
+}

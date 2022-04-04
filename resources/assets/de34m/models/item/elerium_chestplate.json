@@ -1,6 +1,0 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "de34m:items/elerium_chestplate"
-	}
-}

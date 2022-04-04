@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "de34m:elerium_shard"
+    },
+    "addition": {
+        "item": "de34m:elerium_shard"
+    },
+    "result": {
+        "item": "de34m:elerium_plate"
+    }
+}

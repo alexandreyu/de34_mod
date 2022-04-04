@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "de34m:raw_hematite"
+        },
+        {
+            "item": "de34m:raw_hematite"
+        },
+        {
+            "item": "de34m:raw_hematite"
+        },
+        {
+            "item": "de34m:raw_hematite"
+        },
+        {
+            "item": "de34m:raw_hematite"
+        },
+        {
+            "item": "de34m:raw_hematite"
+        },
+        {
+            "item": "de34m:raw_hematite"
+        },
+        {
+            "item": "de34m:raw_hematite"
+        },
+        {
+            "item": "de34m:raw_hematite"
+        }
+    ],
+    "result": {
+        "item": "de34m:hematite_block",
+        "count": 1
+    }
+}

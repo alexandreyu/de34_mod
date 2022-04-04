@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "de34m:block/gamma_activator" },
+        "facing=south": { "model": "de34m:block/gamma_activator", "y": 180 },
+        "facing=west": { "model": "de34m:block/gamma_activator", "y": 270 },
+        "facing=east": { "model": "de34m:block/gamma_activator", "y": 90 }
+    }
+}

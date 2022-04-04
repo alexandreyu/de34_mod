@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "de34m:oil_barrel"
+        }
+    ],
+    "result": {
+        "item": "de34m:oil_bucket",
+        "count": 9
+    }
+}

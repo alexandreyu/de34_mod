@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "de34m:items/bad_player_no_cookie"
+	}
+}

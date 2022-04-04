@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "de34m:blocks/elerium_ore"   
+    }
+}

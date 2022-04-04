@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "de34m:blocks/oil_barrel"   
-    }
-}

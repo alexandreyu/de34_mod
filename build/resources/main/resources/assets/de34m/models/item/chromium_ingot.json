@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "de34m:items/chromium_ingot"
+	}
+}
